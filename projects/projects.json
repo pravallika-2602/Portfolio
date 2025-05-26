@@ -1,0 +1,174 @@
+[
+  {
+    "name": "Instagram MERN",
+    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "Flipkart MERN",
+    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/flipkart-mern"
+    }
+  },
+  {
+    "name": "React-Projects",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/React-Projects"
+    }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+    }
+  },
+  {
+    "name": "Bootstrap Portfolio",
+    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
+    "image": "bootstrapportfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Bootstrap Template",
+    "desc": "Basic website template built using HTML and Bootstrap.",
+    "image": "bootstraptemplate",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Spin-EKS-Cluster",
+    "desc": "It is a basic creation EKS Cluster Using Terraform",
+    "image": "Cloud-AWS",
+    "category": "Cloud-AWS",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pravallika-2602/Spin-EKS-.git"
+    }
+  },
+  {
+    "name": "Deploying-an-EKS-Cluster-with-Terraform",
+    "desc": "Deploying an EKS Cluster with Terraform and Deploying a BlogApp using custom Helm and Nginx Ingress Controller",
+    "image": "Cloud-AWS",
+    "category": "Cloud-AWS",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pravallika-2602/Deploying-an-EKS-Cluster-with-Terraform.git"
+    }
+  },
+  {
+    "name": "S3-Cross-Region-Replication",
+    "desc": "This is a Basic Region Replication",
+    "image": "Cloud-AWS",
+    "category": "Cloud-AWS",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pravallika-2602/S3-Cross-Region-Replication.git"
+    }
+  },
+  {
+    "name": "Addition-Game",
+    "desc": "This is a Basic Addition Game",
+    "image": "Basic Web",
+    "category": "Basic Web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pravallika-2602/-Addition-Game.git"
+    }
+  },
+  {
+    "name": "Random-Color-Generator",
+    "desc": "This is a Basic Random-color-generator",
+    "image": "Basic Web",
+    "category": "Basic Web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pravallika-2602/Ranedom-Color-Generator.git"
+    }
+  },
+  {
+    "name": "Cusstom-Button-UI",
+    "desc": "This is a Basic Cusstom-Button-UI",
+    "image": "Basic Web",
+    "category": "Basic Web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pravallika-2602/Cusstom-Button-UI.git"
+    }
+  },
+  {
+    "name": "Tab-Navigation",
+    "desc": "This is a Basic Tab-Navigation",
+    "image": "Basic Web",
+    "category": "Basic Web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pravallika-2602/Tab-Navigation.git"
+    }
+  },
+  {
+    "name": "JavaScript-Only-Web-Page-",
+    "desc": "This is a Basic JavaScript-Only-Web-Page",
+    "image": "Basic Web",
+    "category": "Basic Web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pravallika-2602/JavaScript-Only-Web-Page-index.js-.git"
+    }
+  },
+  {
+    "name": "Image-Resizer-Application",
+    "desc": "This is a Basic Image-Resizer-Application",
+    "image": "Basic Web",
+    "category": "Basic Web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pravallika-2602/Image-Resizer-Application.git"
+    }
+  },
+  {
+    "name": "Tip-Calculator-Web-App",
+    "desc": "This is a Basic Tip-Calculator-Web-App",
+    "image": "Basic Web",
+    "category": "Basic Web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pravallika-2602/Tip-Calculator-Web-App.git"
+    }
+  },
+  {
+    "name": "Traffic-Light-Simulator",
+    "desc": "This is a Basic Traffic-Light-Simulator",
+    "image": "Basic Web",
+    "category": "Basic Web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pravallika-2602/Traffic-Light-Simulator.git"
+    }
+  }
+
+
+]
